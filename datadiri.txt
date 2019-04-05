@@ -1,1 +1,5 @@
-
+nama : Putra
+kelas : tekom A
+nim : 1829141017
+angkatan : 2018
+alamat : jl. barukang raya 
